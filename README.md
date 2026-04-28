@@ -48,14 +48,14 @@ The main goal of this project was to strengthen frontend development skills and 
 ---
 
 ## 📂 Project Structure
-
+```
 Netflix-Clone/
 │
 ├── index.html
 ├── style.css
 └── assets/
 └── images/
-
+```
 ---
 
 ## 📊 UI & UX Highlights
